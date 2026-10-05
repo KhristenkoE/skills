@@ -1,0 +1,45 @@
+PROJECT
+Goal:
+Requirement source paths:
+Workspace:
+Run ID and orchestrator owner:
+Role skill paths:
+Model mapping and actual capabilities:
+Concurrency/budget limits:
+Repair limit: 2 attempts before reassessment; 1 stronger-model attempt if configured
+Assumptions and unresolved decisions:
+
+MILESTONE M1
+Requirement references:
+Acceptance criteria:
+Status: pending
+Integrated candidate:
+Milestone review report:
+Milestone test report:
+
+TASK T1
+Milestone: M1
+Goal and requirement references:
+Dependencies:
+Acceptance criteria:
+Owned paths/artifacts:
+Status: pending
+Attempt:
+Assigned agent and workspace:
+Candidate identity:
+Implementation report:
+Review verdict/report:
+Test verdict/report:
+Findings and criterion evidence:
+Repair count:
+Blocker and resumption condition:
+Next action:
+
+HISTORY
+Append material transitions with task/attempt, candidate, evidence, and reason.
+
+CHECKPOINT
+Current state:
+Active assignments:
+Next useful action:
+Stop reason, if any:

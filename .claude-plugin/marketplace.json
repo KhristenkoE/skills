@@ -1,0 +1,15 @@
+{
+  "name": "khristenko",
+  "owner": {
+    "name": "KhristenkoE",
+    "url": "https://github.com/KhristenkoE"
+  },
+  "description": "KhristenkoE's portable agent skills.",
+  "plugins": [
+    {
+      "name": "khristenko-skills",
+      "source": "./",
+      "description": "KhristenkoE's collection of reusable agent skills."
+    }
+  ]
+}

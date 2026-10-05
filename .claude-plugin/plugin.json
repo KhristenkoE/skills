@@ -1,0 +1,15 @@
+{
+  "name": "khristenko-skills",
+  "version": "0.1.0",
+  "description": "KhristenkoE's collection of reusable agent skills for Claude Code, Codex, and compatible hosts.",
+  "author": {
+    "name": "KhristenkoE",
+    "url": "https://github.com/KhristenkoE"
+  },
+  "repository": "https://github.com/KhristenkoE/skills",
+  "keywords": [
+    "skills",
+    "workflows",
+    "productivity"
+  ]
+}
