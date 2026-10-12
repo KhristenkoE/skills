@@ -58,6 +58,7 @@ Other hosts have their own discovery locations. Installation makes instructions 
 | [implementor](skills/implementor/SKILL.md) | Complete a bounded implementation or repair task. |
 | [reviewer](skills/reviewer/SKILL.md) | Independently review a task or milestone against requirements. |
 | [tester](skills/tester/SKILL.md) | Verify behavior and acceptance criteria with reproducible evidence. |
+| [challenge-ideas](skills/challenge-ideas/SKILL.md) | Evaluate proposals across domains with independent judgment and constructive disagreement. |
 
 These four can work together; see [the orchestration workflow](docs/orchestration.md). Future skills may cover unrelated tasks and do not need to participate in this workflow.
 

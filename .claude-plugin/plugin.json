@@ -1,6 +1,6 @@
 {
   "name": "khristenko-skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "KhristenkoE's collection of reusable agent skills for Claude Code, Codex, and compatible hosts.",
   "author": {
     "name": "KhristenkoE",

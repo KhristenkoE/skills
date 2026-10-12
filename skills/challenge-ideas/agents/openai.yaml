@@ -1,0 +1,4 @@
+interface:
+  display_name: "Challenge Ideas"
+  short_description: "Independent judgment and constructive disagreement"
+  default_prompt: "Use $challenge-ideas to evaluate this idea and discuss its strongest merits, weaknesses, and assumptions."
